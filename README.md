@@ -10,3 +10,16 @@
 - Clojure
 - Racket
 - Scheme
+- Zig
+- Janet
+- Shell
+
+## Languages I like but don't normally use
+- Elvish
+- Lua
+- Forth
+
+## Languages I dislike
+- Java
+- Python
+- JavaScript

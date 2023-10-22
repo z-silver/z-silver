@@ -18,6 +18,7 @@
 - Elvish
 - Lua
 - Forth
+- [Sal](https://github.com/DrNekoma/salem)
 
 ## Languages I dislike
 - Java

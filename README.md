@@ -11,7 +11,6 @@
 - Racket
 - Zig
 - Janet
-- Shell
 
 ### Languages I like but don't normally use
 - Elvish
@@ -24,3 +23,6 @@
 - Java
 - Python
 - JavaScript
+
+### Languages I dislike but still occasionally use
+- Shell

@@ -6,21 +6,7 @@
 - Networking annoys me, but it's needed so this is my attempt
 - Immutability is a great idea
 
-### Languages I use
-- Clojure
-- Racket
-- Scheme
-- Zig
-- Janet
-- Shell
-
-### Languages I like but don't normally use
-- Elvish
-- Lua
-- Forth
-- [Sal](https://github.com/Dr-Nekoma/salem)
-
-### Languages I dislike
-- Java
-- Python
-- JavaScript
+| Languages | Use                         | Don't Use|
+|-----------|-----------------------------|----------|
+| Like      | Clojure, Racket, Zig, Janet | Elvish, Scheme, Common Lisp, Lua, Forth, [Sal](https://github.com/Dr-Nekoma/salem) |
+| Dislike   | Shell                       | Java, Python, JavaScript |

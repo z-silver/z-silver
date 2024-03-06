@@ -1,5 +1,3 @@
-# About Me
-
 ## Facts I consider relevant
 - I exist
 - I like reading, gaming, programming, music and anime

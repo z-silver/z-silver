@@ -1,8 +1,7 @@
-## Facts I consider relevant
-- I exist
-- I like reading, gaming, programming, music and anime
-- Marketing annoys me, but it's needed so this is my attempt
-- Immutability is a great idea
+# Facts
+- I exist.
+- I like reading, gaming, programming, music and anime.
+- Immutability is a great idea.
 
 ### Language Usage vs. Preference
 

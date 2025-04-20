@@ -5,12 +5,10 @@
 
 ### Language Usage vs. Preference
 
-|**Languages**|**Normally Use**                     |**Normally Don't Use**|
-|-------------|-------------------------------------|----------------------|
+|**Languages**|**Normally Use**|**Normally Don't Use**|
+|-------------|----------------|----------------------|
 |**Like**     | Clojure, Racket, Scheme, Zig, Elvish | Janet, Common Lisp, Lua, Forth, [Sal](https://github.com/Dr-Nekoma/salem) |
-|**Dislike**  | Shell                               | Python, Java, JavaScript |
-
-
+|**Dislike**  | Shell, Typescript | Python, Java, JavaScript |
 
 ### Stats
 

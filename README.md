@@ -8,7 +8,7 @@
 |**Languages**|**Normally Use**|**Normally Don't Use**|
 |-------------|----------------|----------------------|
 |**Like**     | Clojure, Racket, Scheme, Zig, Elvish | Janet, Common Lisp, Lua, Forth, [Sal](https://github.com/Dr-Nekoma/salem) |
-|**Dislike**  | Shell, Typescript | Python, Java, JavaScript |
+|**Dislike**  | Shell, TypeScript | Python, Java, JavaScript |
 
 ### Stats
 
